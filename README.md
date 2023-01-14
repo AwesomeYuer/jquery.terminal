@@ -1,3 +1,19 @@
+```shell
+
+npm install
+
+npm i lite-server
+
+npm run crash
+
+```
+
+## Examples
+
+For more and up to date examples see [jQuery Terminal Examples](https://terminal.jcubic.pl/examples.php) on official website.
+
+
+
 <h1 align="center">
   <img src="https://github.com/jcubic/jquery.terminal/blob/master/assets/ascii_art.svg?raw=true&ver=2.35.2"
        alt="ASCII Art that represent text jQuery Terminal - JavaScript Library for Web Based Terminal Emulators" />
