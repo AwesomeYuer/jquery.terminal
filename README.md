@@ -12,7 +12,7 @@ npm run crash
 
 For more and up to date examples see [jQuery Terminal Examples](https://terminal.jcubic.pl/examples.php) on official website.
 
-
+## Readme
 
 <h1 align="center">
   <img src="https://github.com/jcubic/jquery.terminal/blob/master/assets/ascii_art.svg?raw=true&ver=2.35.2"
